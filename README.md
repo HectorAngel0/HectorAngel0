@@ -3,10 +3,30 @@
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
-I graduated in Bioengineering and am currently pursuing a master's degree in <img width="60.83" height="30.26" alt="imagen" src="https://github.com/user-attachments/assets/e23e6d80-6e7c-43a4-9698-5f38a6ba4778" />
+🎓 I graduated in Bioengineering and am currently pursuing a master's degree in <img width="60.83" height="30.26" alt="imagen" src="https://github.com/user-attachments/assets/e23e6d80-6e7c-43a4-9698-5f38a6ba4778" />
+
+## Have work with
+- RNASeq Data (Differential Expression Analysis)
+- Amplicon Sequences Data (QC, ASV, Differential Abundance Analysis)  
+
+📖 Currently interested in Metabolomics and the interactions within the microbiome and the metabolites they produce
 
 ---
 ## 💻 Skills and tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
 
+Experience working with bioinformatics tools in 
+
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux)](https://skillicons.dev)
+- Qiime2
+  - Deblur
+  - DADA2
+- R
+  - DeSeq2 
+
+Plattforms:  
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+<img width="51.2" height="51.2" alt="imagen" src="https://github.com/user-attachments/assets/94a83fbc-9c79-45b6-8861-e35aad0be5ed" />
+<img width="51.2" height="51.2" alt="imagen" src="https://github.com/user-attachments/assets/25e6044b-3b12-4970-9dbf-fae788eb05bc" />
 
