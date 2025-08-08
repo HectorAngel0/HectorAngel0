@@ -4,7 +4,7 @@
 
 > A bioinformatician exploring the world of omics data  
 
-🎓 I graduated in Bioengineering and am currently pursuing a master's degree in <img width="60.83" height="30.26" alt="imagen" src="https://github.com/user-attachments/assets/e23e6d80-6e7c-43a4-9698-5f38a6ba4778" />
+🎓 I graduated in Bioengineering and am currently pursuing a master's degree in Scientific Research and Higher Education Center of Ensenada, Baja California <img width="60.83" height="30.26" alt="imagen" src="https://github.com/user-attachments/assets/e23e6d80-6e7c-43a4-9698-5f38a6ba4778" />
 
 Feel free to contact me at  📫  **hector.angel@cicese.edu.mx**
 
