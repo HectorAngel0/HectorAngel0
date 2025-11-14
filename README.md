@@ -10,7 +10,8 @@ Feel free to contact me at  📫  **hector.angel@cicese.edu.mx**
 
 ## Have work with
 - RNASeq Data (Differential Expression Analysis)
-- Amplicon Sequences Data (QC, ASV, Differential Abundance Analysis)  
+- Amplicon Sequences Data (QC, ASV, Differential Abundance Analysis)
+- Metagenomics shotgun data (QC, Taxonomic Profilling, MAGs Assembly)
 
 📖 Currently interested in Metabolomics and the interactions within the microbiome and the metabolites they produce
 
